@@ -8,6 +8,7 @@ public class PrintMethods{
 		System.out.println();
 		System.out.println("I want to tell you that Java is different from javascript");
 		System.out.println("\t this is the indented text");
+		
 		// Using th printf()
 		System.out.printf("My name is %s and i love %s%n","John","Java");
 		System.out.printf("I am living in No. %d kaduna Street%n",1);
