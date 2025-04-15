@@ -4,6 +4,7 @@ public class SimpleIfStatement{
 		
 		if(age >= 18){
 			System.out.printf("You are an Adult");
+			
 		}
 	}
 }
